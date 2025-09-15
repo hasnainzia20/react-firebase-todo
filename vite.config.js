@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(), // Add the Tailwind CSS plugin here
   ],
-  base: `/${repoName}/`,
+  base: `/${react - firebase - todo}/`,
 });
